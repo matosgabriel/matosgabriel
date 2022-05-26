@@ -1,6 +1,6 @@
 ### Hello there! I'm Gabriel Matos 👋
 
-- 🔭 I’m currently graduating in Computer Engineering on UFES
+- 🔭 I’m currently graduating on Computer Engineering at UFES
 - 🌱 I’m currently learning NextJS with Typescript
 - 👯 I’m looking to collaborate on software development projects
 - 🤔 I’m looking for help with egress on technology career
