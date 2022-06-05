@@ -1,4 +1,4 @@
-### Hello there! I'm Gabriel Matos 👋
+### Hello there!
 
 - 🔭 I’m currently graduating on Computer Engineering at UFES
 - 🌱 I’m currently learning NextJS with Typescript
