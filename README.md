@@ -1,7 +1,7 @@
 ### Hello there!
 
 - 🔭 I’m currently graduating on Computer Engineering at UFES
-- 🌱 I’m currently learning NextJS with Typescript
+- 🌱 I’m currently learning Web development with Typescript and Data analysis with Python
 - 👯 I’m looking to collaborate on software development projects
 - 🤔 I’m looking for help with egress on technology career
 - 📫 How to reach me: gabriel.ifsal@gmail.com
