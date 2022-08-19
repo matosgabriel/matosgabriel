@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently graduating on Computer Engineering at UFES
 - 🌱 I’m currently learning Web development with Typescript and Data analysis with Python
-- 👯 I’m looking to collaborate on software development projects
-- 🤔 I’m looking for help with egress on technology career
+- 💻 I’m looking for an intern opportunity in technology area
 - 📫 How to reach me: matosgabriel.ti@gmail.com
 
 <div align="center">
