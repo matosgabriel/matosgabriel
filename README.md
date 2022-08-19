@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web development with Typescript and Data analysis with Python
 - 👯 I’m looking to collaborate on software development projects
 - 🤔 I’m looking for help with egress on technology career
-- 📫 How to reach me: gabriel.ifsal@gmail.com
+- 📫 How to reach me: matosgabriel.ti@gmail.com
 
 <div align="center">
   <a href="https://github.com/matosgabriel">
