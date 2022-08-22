@@ -1,8 +1,9 @@
 ### Hello there!
 
-- 🔭 I’m currently graduating on Computer Engineering at UFES
-- 🌱 I’m currently learning Web development with Typescript and Data analysis with Python
-- 💻 I’m looking for an intern opportunity in technology area
+- 🔭 Graduating on Computer Engineering at UFES
+- 🌱 Learning Web development with Typescript and Data analysis with Python
+- 💻 Looking for an intern opportunity in technology area
+- 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat</a>.
 - 📫 How to reach me: matosgabriel.ti@gmail.com
 
 <div align="center">
