@@ -2,7 +2,7 @@
 
 - 🔭 Graduating on Computer Engineering at UFES
 - 🌱 Learning Web development with Typescript and Data analysis with Python
-- 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat</a>
+- 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat Ignite</a>
 - 💻 Looking for an intern opportunity in technology area
 - 📫 Send me an e-mail: matosgabriel.ti@gmail.com
 - 🤝 Connect with me on <a href='https://www.linkedin.com/in/matosgabriel/'>Linkedin</a>
