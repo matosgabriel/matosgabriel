@@ -3,7 +3,7 @@
 - 🔭 Graduating on Computer Engineering at UFES
 - 🌱 Learning QA Development, Automation and Data analysis with Python
 - 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat Ignite</a>
-- 💻 Looking for an intern opportunity in technology area
+- 💻 Looking for an opportunity in technology area
 - 📫 Send me an e-mail: gabriel.ifsal@gmail.com
 
 <div align="center">
