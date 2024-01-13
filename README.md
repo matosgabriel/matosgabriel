@@ -1,15 +1,13 @@
 ### Hello there!
 
-- 🔭 Graduating on Computer Engineering at UFES
-- 🌱 Learning QA Development, Automation and Data analysis with Python
+- 🔭 Computer Engineer - UFES
+- 💻 Learning QA Development, Automation and Data analysis with Python
 - 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat Ignite</a>
-- 💻 Looking for an opportunity in technology area
-- 📫 Send me an e-mail: gabriel.ifsal@gmail.com
 
 <div align="center">
   <a href="https://github.com/matosgabriel">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matosgabriel&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matosgabriel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matosgabriel&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matosgabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ### Tech knowledge
