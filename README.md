@@ -1,8 +1,8 @@
 ### Hello there!
 
 - 🔭 Computer Engineer - UFES
-- 💻 Learning QA Development, Automation and Data analysis with Python
-- 📚 Full stack development student at 🚀<a href='https://github.com/Rocketseat'>Rocketseat Ignite</a>
+- 💻 Software Developer
+- 📈 Over 2 years of experience on developing and maintaining high quality software solutions
 
 <div align="center">
   <a href="https://github.com/matosgabriel"></a>
