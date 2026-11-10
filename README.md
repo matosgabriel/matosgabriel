@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/matosgabriel"></a>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matosgabriel&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matosgabriel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=matosgabriel&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matosgabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Tech knowledge
